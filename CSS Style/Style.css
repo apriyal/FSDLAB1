@@ -1,0 +1,96 @@
+body{
+  font-family: Lucida Bright, Georgia, serif;
+  background-color: #00D7FF;
+  margin: 0;
+}
+
+hr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: dotted #31087B 4px;
+  border-bottom: none;
+  width: 5%;
+}
+
+h2{
+  color: #1F4690;
+}
+
+.head2{
+  position: relative;
+  top: 30px;
+  color: #002B5B;
+  font-size: 2rem;
+  text-align: center;
+}
+
+
+.head{
+  color: #002B5B;
+  font-size: 3rem;
+  position: relative;
+  bottom: 40px;
+  margin-top:0;
+}
+
+.p1{
+  color: #1F4690;
+  font-size: 1.6rem;
+  position: relative;
+  bottom: 40px;
+}
+
+.D1{
+  margin-top: 20px;
+  background-color: #C1EFFF;
+  width: 95%;
+  height: 700px;
+}
+
+.D2{
+  margin-top: 20px;
+  margin: auto;
+  background-color: #C1EFFF;
+  width: 95%;
+  height: 700px;
+}
+
+.D2-1{
+  margin: 60px 30px;
+}
+
+.mount{
+  position: relative;
+  bottom: 110px;
+}
+
+.cloud1{
+  position: relative;
+  bottom: 10px;
+  right: -200px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 200px;
+  bottom: 130px;
+
+}
+
+.Logo1{
+  float: left;
+  margin-top: 20px;
+  width: 20%;
+}
+
+.Logo1-h{
+  position: relative;
+  left: 30px;
+  top: 15px;
+}
+
+.Logo1-p{
+  position: relative;
+  left: 30px;
+  line-height: 2;
+}
